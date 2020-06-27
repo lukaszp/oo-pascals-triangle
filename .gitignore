@@ -1,5 +1,8 @@
 /pascals_triangle.egg-info
 
+/build
+/dist
+
 /Pipfile
 /Pipfile.lock
 
