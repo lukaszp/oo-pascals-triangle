@@ -1,0 +1,5 @@
+import pascals_triangle.pascals_triangle_math
+import pascals_triangle.optimized_pascals_triangle
+from pascals_triangle.pascals_triangle_math import *
+from pascals_triangle.optimized_pascals_triangle import *
+

@@ -1,0 +1,10 @@
+/pascals_triangle.egg-info
+
+/Pipfile
+/Pipfile.lock
+
+/tests/.hypothesis
+
+/.project
+/.pydevproject
+
