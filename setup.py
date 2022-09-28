@@ -5,7 +5,7 @@ with open("README.md", "r") as readme_file:
 
 setuptools.setup(name='pascals_triangle',
       version = '0.1',
-      description = "Pascal's Triangle Library",
+      description = "Object Oriented Pascal's Triangle Library",
       long_description = long_description,
       long_description_content_type = "text/markdown",
       url = 'https://github.com/lukaszp/pascals-triangle.git',
